@@ -1,0 +1,2 @@
+from univariate_class import UnivariateAnalysis
+from bivariate_class import BivariateAnalysis
